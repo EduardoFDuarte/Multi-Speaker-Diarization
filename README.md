@@ -9,13 +9,17 @@ py -3.12 --version or python --version
 
 # Create Virtual Environment with Python 3.12
 Run this command in the console to create the virtual environment with python 3.12:
+
 python3.12 -m venv .venv 
+
 Run this command in the console to start the virtual environment with python 3.12:
+
 .venv/bin/activate 
 
 # Install Dependencies
 Run this command in the console to install all of the required dependencies for this project:
-pip install -r requirements.txt
+
+pip install -r requirements.txt  
 
 # Run code
 Run this command in the console to start the program:
